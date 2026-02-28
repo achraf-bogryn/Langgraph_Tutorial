@@ -6,3 +6,5 @@ python-dotenv
 ipykernel
 langchain-openai
 langchain-groq
+arxiv
+wikipedia
